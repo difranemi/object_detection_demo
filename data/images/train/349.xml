@@ -18,7 +18,7 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>655</xmin>
-			<ymin>319</ymin>
+			<ymin>351</ymin>
 			<xmax>734</xmax>
 			<ymax>459</ymax>
 		</bndbox>
@@ -30,7 +30,7 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>468</xmin>
-			<ymin>343</ymin>
+			<ymin>370</ymin>
 			<xmax>549</xmax>
 			<ymax>475</ymax>
 		</bndbox>
