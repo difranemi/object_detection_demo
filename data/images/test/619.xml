@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>619.jpg</filename>
-	<path>C:\Users\difra\object_detection\data\images\test\619.jpg</path>
+	<path>C:\Users\difra\object_detection_demo\data\images\test\619.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>229</ymin>
 			<xmax>817</xmax>
 			<ymax>351</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1055</xmin>
+			<ymin>11</ymin>
+			<xmax>1068</xmax>
+			<ymax>59</ymax>
 		</bndbox>
 	</object>
 </annotation>
