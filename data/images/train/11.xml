@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>11.jpg</filename>
-	<path>C:\Users\difra\object_detection\data\images\train\11.jpg</path>
+	<path>C:\Users\difra\object_detection_demo\data\images\train\11.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -69,6 +69,30 @@
 			<ymin>328</ymin>
 			<xmax>1232</xmax>
 			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1233</xmin>
+			<ymin>57</ymin>
+			<xmax>1257</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>front car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>180</ymin>
+			<xmax>541</xmax>
+			<ymax>273</ymax>
 		</bndbox>
 	</object>
 </annotation>

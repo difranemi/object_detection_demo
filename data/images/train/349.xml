@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>349.jpg</filename>
-	<path>C:\Users\difra\object_detection\data\images\train\349.jpg</path>
+	<path>C:\Users\difra\object_detection_demo\data\images\train\349.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,7 +18,7 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>655</xmin>
-			<ymin>351</ymin>
+			<ymin>335</ymin>
 			<xmax>734</xmax>
 			<ymax>459</ymax>
 		</bndbox>
@@ -30,7 +30,7 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>468</xmin>
-			<ymin>370</ymin>
+			<ymin>364</ymin>
 			<xmax>549</xmax>
 			<ymax>475</ymax>
 		</bndbox>
