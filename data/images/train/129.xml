@@ -48,18 +48,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>front car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>200</xmin>
-			<ymin>274</ymin>
-			<xmax>338</xmax>
-			<ymax>374</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>traffic light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

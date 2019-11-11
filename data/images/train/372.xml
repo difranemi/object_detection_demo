@@ -23,16 +23,4 @@
 			<ymax>41</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>front car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>930</xmin>
-			<ymin>223</ymin>
-			<xmax>1012</xmax>
-			<ymax>295</ymax>
-		</bndbox>
-	</object>
 </annotation>
