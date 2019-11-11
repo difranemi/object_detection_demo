@@ -36,18 +36,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>front truck</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>760</xmin>
-			<ymin>242</ymin>
-			<xmax>869</xmax>
-			<ymax>347</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>traffic light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

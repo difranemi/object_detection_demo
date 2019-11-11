@@ -47,28 +47,4 @@
 			<ymax>42</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>front motorcycle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>195</xmin>
-			<ymin>275</ymin>
-			<xmax>252</xmax>
-			<ymax>343</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>front car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>400</xmin>
-			<ymin>242</ymin>
-			<xmax>524</xmax>
-			<ymax>314</ymax>
-		</bndbox>
-	</object>
 </annotation>

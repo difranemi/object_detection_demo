@@ -47,16 +47,4 @@
 			<ymax>66</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>front truck</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>516</xmin>
-			<ymin>336</ymin>
-			<xmax>821</xmax>
-			<ymax>588</ymax>
-		</bndbox>
-	</object>
 </annotation>

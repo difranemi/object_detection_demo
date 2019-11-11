@@ -59,16 +59,4 @@
 			<ymax>97</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>front bus</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>461</xmin>
-			<ymin>189</ymin>
-			<xmax>709</xmax>
-			<ymax>403</ymax>
-		</bndbox>
-	</object>
 </annotation>

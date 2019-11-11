@@ -24,18 +24,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>front motorcycle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>794</xmin>
-			<ymin>280</ymin>
-			<xmax>828</xmax>
-			<ymax>338</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>traffic light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
