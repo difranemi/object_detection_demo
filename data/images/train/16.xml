@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>SECU0235</folder>
 	<filename>16.jpg</filename>
-	<path>C:\Users\difra\object_detection_demo\data\images\train\16.jpg</path>
+	<path>C:\Users\difra\Traffic-Rule-Violation-Detection-System\object_detection_demo\data\images\train\SECU0235\16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,7 +18,7 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>889</xmin>
-			<ymin>157</ymin>
+			<ymin>148</ymin>
 			<xmax>923</xmax>
 			<ymax>217</ymax>
 		</bndbox>
